@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
-    "dotenv": "^7.0.0"
+    "btoa": "^1.2.1",
+    "dotenv": "^7.0.0",
+    "node-fetch": "^2.3.0"
   }
 }
