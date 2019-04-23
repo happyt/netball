@@ -6,10 +6,9 @@ var fs = require('fs');
 // var match = '1139060400'
 
 // var statsUrl = 'http://' +
-//             process.env.NETBALL_URL +
+//             process.env.THE_URL +
 //             comp + '/' +
 //             'stats-' + match + '/'
-statsUrl = 'http://stats.championdata.com/skytv/netball/10855/stats-1139060400.xml'
 
 console.log('Url ' + statsUrl)
 

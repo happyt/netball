@@ -11,7 +11,7 @@ var match = "1139060400";
 var data = ""
 // plain text or html
 
-var url = "http://" + process.env.NETBALL_URL + comp + "/fixture.xml";
+var url = "http://" + process.env.THE_URL + comp + "/fixture.xml";
 // var url = 'https://' +
 //             process.env.FIFA_URL +
 //             '/tournaments'

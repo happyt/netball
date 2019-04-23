@@ -7,12 +7,12 @@ var comp = '10855'
 var match = '1139060400'
 
 // var statsUrl = 'http://' +
-//             process.env.NETBALL_URL +
+//             process.env.THE_URL +
 //             comp + '/' +
 //             'stats-' + match + '/'
 
 var statsUrl = 'http://' +
-            process.env.NETBALL_URL +
+            process.env.THE_URL +
             comp + '/fixture.xml'
 
             // + comp + '/stats-' + match + '.xml'
